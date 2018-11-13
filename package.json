@@ -1,0 +1,14 @@
+{
+  "name": "email-handler",
+  "version": "1.0.0",
+  "description": "A tool for handling automated emails for me in node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John E. Anderson",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^4.6.8"
+  }
+}
